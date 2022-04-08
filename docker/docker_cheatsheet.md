@@ -13,10 +13,10 @@
 
 # Basic Terminology
 
-**Daemon**: background process that receives commands.
-**Dockerfile**: set of layers containing instructions used to build images.
-**Image**: artifact nade from a compiled Dockerfile.
-**Container**: instance of an image.
+- **Daemon**: background process that receives commands.
+- **Dockerfile**: set of layers containing instructions used to build images.
+- **Image**: artifact nade from a compiled Dockerfile.
+- **Container**: instance of an image.
 
 # Getting Started
 
