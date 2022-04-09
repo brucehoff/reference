@@ -107,7 +107,7 @@ docker stats [<container>]
 
 View container information:
 ```
-docker instpect <container>
+docker inspect <container>
 ```
 
 Create image from container:
@@ -158,7 +158,7 @@ docker image ls
 
 Remove an image:
 ```
-docker image rm <image>
+docker image rmi <image>
 ```
 
 Prune all unused images:
